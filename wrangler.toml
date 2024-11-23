@@ -5,55 +5,55 @@ name = "server-sg6" # todo
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern = "sg6.tokodswara3.my.id"
+pattern = "sg6.tokodswara.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "ava.game.naver.com.sg6.tokodswara3.my.id"
+pattern = "ava.game.naver.com.sg6.tokodswara.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "df.game.naver.com.sg6.tokodswara3.my.id"
+pattern = "df.game.naver.com.sg6.tokodswara.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "quiz.int.vidio.com.sg6.tokodswara3.my.id"
+pattern = "quiz.int.vidio.com.sg6.tokodswara.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "quiz.vidio.com.sg6.tokodswara3.my.id"
+pattern = "quiz.vidio.com.sg6.tokodswara.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "app.gopay.co.id.sg6.tokodswara3.my.id"
+pattern = "app.gopay.co.id.sg6.tokodswara.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "zoomcares.zoom.us.sg6.tokodswara3.my.id"
+pattern = "zoomcares.zoom.us.sg6.tokodswara.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "beta.zoom.us.sg6.tokodswara3.my.id"
+pattern = "beta.zoom.us.sg6.tokodswara.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "zoomgov.socifiles.com.sg6.tokodswara3.my.id"
+pattern = "zoomgov.socifiles.com.sg6.tokodswara.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "api.zoom.us.sg6.tokodswara3.my.id"
+pattern = "api.zoom.us.sg6.tokodswara.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "edu.ruangguru.com.sg6.tokodswara3.my.id"
+pattern = "edu.ruangguru.com.sg6.tokodswara.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "store.zoom.us.sg6.tokodswara3.my.id"
+pattern = "store.zoom.us.sg6.tokodswara.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "zoomgov.socifiles.com.sg6.tokodswara3.my.id"
+pattern = "zoomgov.socifiles.com.sg6.tokodswara.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "support.zoom.us.sg6.tokodswara3.my.id"
+pattern = "support.zoom.us.sg6.tokodswara.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "access.zoominfo.com.sg6.tokodswara3.my.id"
+pattern = "access.zoominfo.com.sg6.tokodswara.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "access.zoom.us.sg6.tokodswara3.my.id"
+pattern = "access.zoom.us.sg6.tokodswara.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "news.microsoft.com.sg6.tokodswara3.my.id"
+pattern = "news.microsoft.com.sg6.tokodswara.biz.id"
 custom_domain = true
 
 [vars]
